@@ -50,8 +50,9 @@ GitHub直接下载：[Epub版](https://github.com/phodal/growth-ebook/releases/d
 
 有钱捧个钱场:
 
+<!--
 ![Alipay](./marketing/alipay.png)![Wechat](./marketing/wechat.png)
-
+-->
 
 应用下载
 ---
